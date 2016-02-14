@@ -36,11 +36,11 @@
 	background-color: #cf5656;
 	border-radius: 2px;
 	color: #ffffff;
-	width: 68px;
-	height: 35px;
+	width: 75px;
+	height: 38px;
 	padding: 10px 15px;
 	cursor: pointer;
-	font-weight: 200;
+	font: 200 15px Roboto, sans-serif;
 	margin-right: 25px;
 	outline: none;
     -webkit-user-select: none;  /* Chrome all / Safari all */
@@ -55,6 +55,9 @@
 	background-color: #00b0f6;
 	border-radius: 2px;
 	color: #ffffff;
+	width: 75px;
+	height: 38px;
+	font: 200 15px Roboto, sans-serif;
 	padding: 10px 15px;
 	cursor: pointer;
 	outline: none;
